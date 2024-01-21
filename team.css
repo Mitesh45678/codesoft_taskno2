@@ -1,0 +1,71 @@
+.member-image{
+    position: relative;
+    /* height: 17rem; */
+    /* width: 100%; */
+    overflow: hidden;
+    /* transition: 1s; */
+    border-radius: 5px;
+    border: 1px;
+}
+
+.social{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    height:112px;
+    top: 20px;
+    right: 0;
+    background: rgba(255, 255, 255, 0.3);
+    align-items: flex-end;
+    justify-content: center;
+    padding: 10px;
+    /* opacity: 0; */
+    transition:  opacity 0.5s;
+    visibility: hidden;
+    margin-right: 8px;
+
+}
+
+.members:hover .social{
+    opacity: 1;
+    visibility: visible;
+
+}
+.member-info{
+    padding:  10px;
+    margin: 15px;
+}
+
+.member-info hr{
+    width: 100%;
+    height: 2px;
+    color: #704545;
+    background-color: #373333;
+    margin: 7px;
+
+}
+
+
+.members{
+    transition: 1s;
+    /* padding: 20px; */
+    margin: 10px 0;
+}
+
+.members:hover{
+    transform: scale(1.1);
+}
+
+/* .member-image::after{
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background: url(./images/wave\ \(1\).svg) no-repeat center bottom;
+    background-size: contain;
+    color: white; */
+    /* z-index: 0;
+} */

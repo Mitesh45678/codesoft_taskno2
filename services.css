@@ -1,0 +1,171 @@
+.mesage-icon-1{
+
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color: #2db6fa;
+}
+
+.border-1{
+ /* border-bottom: 3px solid ; */
+
+ border-bottom: 3px solid #2db6fa ;
+    
+
+}
+.service-box{
+    border-radius: 5px;
+    
+}
+
+.service-box:hover{
+    background-color: #2db6fa;
+    color: white;
+}
+
+.anchor:hover a{
+    color: white;
+}
+.anchor a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.mesage-icon-2{
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color: #f68c09;
+
+}
+
+.border-2{
+    border-bottom-width: 3rem;
+    border-bottom-color:#f68c09 ;
+    border-bottom-style: solid;
+
+
+}
+
+.service-box-2:hover{
+    background-color: #f68c09;
+    color: white;
+}
+.service-box-2{
+    border-radius: 5px;
+}
+
+.mesage-icon-3{
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color:#08da4e ;
+
+}
+
+.border-3{
+    border-bottom-width: 3rem;
+    border-bottom-color:#08da4e ;
+    border-bottom-style: solid;
+
+
+}
+
+.service-box-3:hover{
+    background-color: #08da4e;
+    color: white;
+}
+.service-box-3{
+    border-radius: 5px;
+}
+
+/* 4 */
+.mesage-icon-4{
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color:#e9222c ;
+
+}
+
+.border-4{
+    border-bottom-width: 3rem;
+    border-bottom-color:#e9222c ;
+    border-bottom-style: solid;
+
+
+}
+
+.service-box-4:hover{
+    background-color: #e9222c;
+    color: white;
+}
+
+.service-box-4{
+    border-radius: 5px;
+}
+/* 5 */
+.mesage-icon-5{
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color:#b50edf ;
+
+}
+
+.border-5{
+    border-bottom-width: 3rem;
+    border-bottom-color:#b50edf ;
+    border-bottom-style: solid;
+
+
+}
+
+.service-box-5:hover{
+    background-color: #b50edf;
+    color: white;
+}
+
+.service-box-5{
+    border-radius: 5px;
+}
+/* 6 */
+
+
+
+/* 7 */
+.mesage-icon-7{
+    width: 500px;
+    height: 300px;
+    padding: 15px 15px;
+    
+    background-color:white;
+    color: #f51f9c;
+
+}
+
+.border-7{
+    border-bottom-width: 5px;
+    border-bottom-color:#f51f9c ;
+    border-bottom-style: solid;
+
+
+}
+
+.service-box-7:hover{
+    background-color: #f51f9c;
+    color: white;
+}
+
+.service-box-7{
+    border-radius: 5px;
+}

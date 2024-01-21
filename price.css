@@ -1,0 +1,43 @@
+.price{
+    padding: 40px 20px;
+    
+}
+.price-color1{
+    color: #07d5c0;
+}
+
+.featured{
+    
+
+    width: 100px;
+    position: absolute;
+    top: 27px;
+    right: 0px;
+    transform: rotate(45deg);
+    z-index: 1;
+    font-size: 14px;
+    padding: 1px 0 3px 0;
+    background: #4154f1;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+
+
+}
+
+.price-color2{
+    color: #65c600;
+}
+.price-color3{
+    color: #ff901c;
+}
+.price-color5{
+    color: #ff0071;
+}
+.trans{
+    transition: 0.3s;
+}
+.trans:hover{
+    transform: scale(1.1);
+    
+}

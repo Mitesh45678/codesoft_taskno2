@@ -1,0 +1,20 @@
+.blog-image img{
+    border-radius: 6px;
+}
+
+.blog-info h4{
+    color: #012970;
+    
+}
+
+.blog-info a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blog-card{
+    padding: 15px;
+    margin: 10px;
+    transition: 0.7s;
+}
+

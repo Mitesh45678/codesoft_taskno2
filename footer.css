@@ -1,0 +1,85 @@
+.fllogo strong{
+    color:#012970 ;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+
+}
+
+.fllogo{
+    margin-bottom: 10px;
+
+}
+
+.useful strong{
+    color:#012970;
+    margin-bottom: 5px;
+
+}
+.useful li{
+    list-style-type: none;
+    
+}
+.useful a{
+    text-decoration: none;
+}
+
+.services strong{
+    color:#012970;
+    margin-bottom: 5px;
+
+}
+.services li{
+    list-style: none;
+}
+.services a{
+    text-decoration: none;
+}
+
+.contact-footer strong{
+    color:#012970 ;
+
+}
+
+.back{
+    background-color: rgba(67, 89, 113, 0.2);
+}
+
+.copyright{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright strong{
+    color: #012970;
+}
+.copyright p{
+    color: #4154f1;
+}
+
+.back-to-top{
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    right: 1.75rem;
+    bottom: 1.875rem;
+    z-index: 9999;
+    color: white;
+    border-radius: 4px;
+    
+    
+}
+
+.back-to-top i{
+    text-align: center;
+    padding: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #4154f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

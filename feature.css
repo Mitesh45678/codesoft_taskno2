@@ -1,0 +1,57 @@
+.f1{
+    color: #012970;
+    margin-left: 5px;
+    display: inline-block;
+      margin-right: 10px; /* Adjust spacing as needed */
+      font-size: 20px; /* Adjust font size as needed */
+      position: relative;
+      margin-bottom: 40px;
+      text-align: center;
+      align-items: center;
+}
+
+.check{
+    /* display: inline-block; */
+      width: 100%; /* Adjust size as needed */
+      height: 20px; /* Adjust size as needed */
+      background-color: white; /* Green color for the check */
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+      font-weight: bolder;
+
+}
+.f1:hover{
+    outline: 2px solid #4CAF50; /* Green outline color */
+}
+
+.nv1{
+    color: #012970;
+    font-weight: 500;
+}
+
+.fp{
+    color: #444444; margin-top: 10px;
+    font-size: large;
+}
+
+.start{
+    text-align: start;
+    width: 100%;
+}
+.margin-bottom{
+    margin-bottom: 20px;
+}
+
+.icon1{
+    display: inline-block;
+    
+}
+.ftext{
+    display: inline;
+    vertical-align: text-bottom;
+    text-align: start;
+    margin-left: 10px;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
+}
